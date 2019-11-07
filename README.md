@@ -1,4 +1,4 @@
-# Apple Themed Paint Program in Python
+# Apple Themed Paint Program Made in Python
 
 A fun, Apple-themed paint program used to simulate Microsoft Paint created using Python and the Pygame library. 
 Implemented design and functionality including multi-tools, stamps, undo/redo edits, save/load functionality, and more. 
