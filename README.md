@@ -5,4 +5,5 @@ Implemented design and functionality including multi-tools, stamps, undo/redo ed
 
 Runs on Python 2.7.2 and PyGame 1.9.1.
 
-![Screenshot](previews/screenshot.png)
+![Screenshot](github_previews/paint-program1.png)
+![Screenshot](github_previews/paint-program2.png)
